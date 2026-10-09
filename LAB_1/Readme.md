@@ -3,9 +3,9 @@
 Este repositorio contiene el desarrollo, diagramas de flujo en **GNU Radio** y análisis experimental para el estudio de la conversión analógico-digital (muestreo y cuantización uniforme)[cite: 1]. Incluye pruebas en tiempo real con hardware SDR (**USRP B200 mini**) y caracterización del ruido de cuantización y aliasing espectral[cite: 1].
 
 ## 👥 Integrantes
-* **José Avello** — `jose.avello1@mail.udp.cl`[cite: 1]
-* **Jean Jorquera** — `jean.jorquera@mail.udp.cl`[cite: 1]
-* **Álvaro Valdebenito** — `alvaro.valdebenito@mail.udp.cl`[cite: 1]
+* **José Avello** — `jose.avello1@mail.udp.cl`
+* **Jean Jorquera** — `jean.jorquera@mail.udp.cl`
+* **Álvaro Valdebenito** — `alvaro.valdebenito@mail.udp.cl`
 
 **Institución:** Universidad Diego Portales — Escuela de Informática y Telecomunicaciones (Grupo 02, Semestre II - 2026)[cite: 1]
 
@@ -22,9 +22,9 @@ El proyecto aborda las etapas fundamentales del proceso de digitalización y mod
 
 ## 🛠️ Requisitos e Instalación
 
-* **GNU Radio** (v3.8+)[cite: 1]
-* **Python 3.x** con `numpy`[cite: 4]
-* **UHD / USRP Hardware:** USRP B200 mini (opcional para pruebas en RF)[cite: 1]
-* **Instrumentación:** Analizador de espectros (para mediciones de RF)[cite: 1]
+* **GNU Radio** (v3.8+)
+* **Python 3.x** con `numpy`
+* **UHD / USRP Hardware:** USRP B200 mini (opcional para pruebas en RF)
+* **Instrumentación:** Analizador de espectros (para mediciones de RF)
 
 ---
